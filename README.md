@@ -57,3 +57,10 @@ Go to http://<alb_hostname>:5000/api/ui to interact with the REST API.
 ![Screenshot](https://github.com/loide/loide.github.io/blob/master/images/pokeapi.png?raw=true)
 
 The browser interface gives direction about how to send requests.
+
+## Cleanup
+
+```
+$ terraform destroy terraform/
+```
+It will delete all resources created by this terraform application.

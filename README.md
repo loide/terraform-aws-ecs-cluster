@@ -1,4 +1,4 @@
-# octo-goggles
+# terraform-aws-ecs-cluster
 
 Infrastructure as code to deploy microservices application using Terraform.
 
